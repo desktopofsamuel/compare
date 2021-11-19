@@ -33,11 +33,16 @@
     "@chakra-ui/react": "1.7.1",
     "@emotion/react": "11.6.0",
     "@emotion/styled": "11.6.0",
+    "dotenv": "10.0.0",
     "framer-motion": "5.3.0",
     "gatsby": "4.1.4",
+    "gatsby-source-airtable": "2.2.1",
+    "gatsby-source-filesystem": "4.2.0",
+    "namor": "2.0.3",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-helmet": "6.1.0",
+    "react-table": "7.7.0",
     "tsconfig-paths-webpack-plugin": "3.5.1"
   },
   "devDependencies": {
